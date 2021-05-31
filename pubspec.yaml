@@ -12,10 +12,17 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  # スプラッシ画面
+  flutter_native_splash: ^1.1.8+4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+# スプラッシュ画面設定
+flutter_native_splash:
+  image: "assets/splash/no_image.jpg"
+  color: "ffffff"
 
 flutter:
 
